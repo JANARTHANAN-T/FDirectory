@@ -4,6 +4,7 @@
   "description": "Fabromen Directoty Project Repository\r This is a test commit I am adding / VC",
   "main": "server.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server",
     "server": "nodemon server"
   },
