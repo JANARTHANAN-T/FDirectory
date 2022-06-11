@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://fdmember:testing001@directory.w4d9s.mongodb.net/?retryWrites=true&w=majority",
+    "jwtToken":"fabromentoken"
+}
